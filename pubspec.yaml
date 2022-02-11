@@ -1,0 +1,146 @@
+name: spocate
+description: Spocate App
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.7+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+  ################## App Related #####################
+  # Getting Device ID from Android and iOS
+  device_info: ^2.0.0
+  # Getting App Info like version code, version name, package, app name
+  get_version: ^0.2.2
+  # SMS otp auto fill
+  sms_autofill: ^2.0.0
+  # Check Internet connection
+  connectivity: ^3.0.3
+  # Progress bar loading
+  flutter_easyloading: ^3.0.0
+  # Circular countdown timer for Spot Located alert only
+  circular_countdown_timer: ^0.2.0
+  # Support - Phone and Email action
+  url_launcher: ^6.0.6
+
+  ################## SOCIAL LOGIN #####################
+  # FireBase
+  firebase_auth: ^1.2.0
+  # FB Sign-in
+  flutter_facebook_auth: ^3.4.0
+  # Google sign-in
+  google_sign_in: ^5.0.4
+  # Apple Sign-in
+  sign_in_with_apple: ^3.0.0
+  # MD5 - Encryption and Decryption
+  crypto: ^3.0.1
+  # Keep screen active from auto screen OFF
+  wakelock: ^0.5.2
+
+  ################## BLOC Architecture #####################
+  # provides bloc, state, event
+  flutter_bloc: ^6.1.1
+  # making mandatory params in the object
+  meta: ^1.1.6
+  # to compare two objects
+  equatable: ^1.2.5
+
+  ################## LOCATION #####################
+  # get address from the location latitude and longitude
+  geocoder: ^0.2.1
+  # check & request permission, current location, continuous location, distance between locations
+  geolocator: ^7.3.1
+  # showing map, placing pins, drawing poly lines
+  google_maps_flutter: ^2.0.4
+  # places auto complete
+  google_place: ^0.4.0
+  # getting poly line points and draw poly line
+  flutter_polyline_points: ^1.0.0
+
+  ################## DATA #####################
+  # Save data in local cache storage
+  shared_preferences: ^2.0.5
+  # Network operations
+  http: ^0.13.3
+
+  ################## NOTIFICATION #####################
+  # Base library for all firebase related usages
+  firebase_core: ^1.2.0
+  # Push notification handling
+  firebase_messaging: ^10.0.0
+  # Pushing foreground and background notification
+#  flutter_local_notifications: 5.0.0+4
+
+  # firebase crashlytics
+  firebase_crashlytics: ^2.0.7
+
+  # aawesome_notifications
+  awesome_notifications: ^0.0.6+9
+
+  # Background locator
+  background_locator: ^1.6.3
+
+  # Location Permissions
+  location_permissions: ^4.0.0
+
+  #Test path_provider note *** ---> need to remove after test
+  path_provider: ^2.0.1
+
+  # provider
+  provider: ^4.3.2+2
+
+  # OnResume and OnPause listener
+  focus_detector: ^2.0.0
+
+  # GetX for reactive trigger from background location
+  # get: ^4.3.8
+
+  # Braintree Paypal payment
+  flutter_braintree: 1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+        - asset: assets/fonts/Roboto-LightItalic.ttf
+        - asset: assets/fonts/Roboto-Medium.ttf
+        - asset: assets/fonts/Roboto-Regular.ttf
+

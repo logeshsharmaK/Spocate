@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>647061186309-2b1sssb261gvn9o4rva4g8otf6bshjff.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.647061186309-2b1sssb261gvn9o4rva4g8otf6bshjff</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>647061186309-ms8uvetl87g2ptjn2shfs8v2ftiu773q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgXD69x3crlDlvrU00VXkeTGpQNB0_rho</string>
+	<key>GCM_SENDER_ID</key>
+	<string>647061186309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spocate.app</string>
+	<key>PROJECT_ID</key>
+	<string>freeparking-ededd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>freeparking-ededd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:647061186309:ios:218e3a7111cc49a765b96c</string>
+</dict>
+</plist>

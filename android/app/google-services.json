@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "647061186309",
+    "project_id": "freeparking-ededd",
+    "storage_bucket": "freeparking-ededd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647061186309:android:997d10a2a1c8a05265b96c",
+        "android_client_info": {
+          "package_name": "com.openwave.free_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647061186309-ms8uvetl87g2ptjn2shfs8v2ftiu773q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openwave.free_parking",
+            "certificate_hash": "35101b2d8f4182dd6f7ae327412b4492312c3f28"
+          }
+        },
+        {
+          "client_id": "647061186309-rcrlduvrpk6j4bl7b6d1p7j0bvq3as9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openwave.free_parking",
+            "certificate_hash": "2b5c63a595cc3e79464b25eb244c91a98bc08530"
+          }
+        },
+        {
+          "client_id": "647061186309-j6sjh83kggia8kg37j1i4uvrd4bu7ilf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcbY2n6e7VBCKwnWL7T79ibumSW6-l9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647061186309-j6sjh83kggia8kg37j1i4uvrd4bu7ilf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647061186309-2b1sssb261gvn9o4rva4g8otf6bshjff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spocate.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647061186309:android:a48595816aa3c1ec65b96c",
+        "android_client_info": {
+          "package_name": "com.spocate.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647061186309-br5e26ve3p45n38k627tj0iiakl277s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spocate.app",
+            "certificate_hash": "81a686b2303d6bc3d8350827759ea700d149d2cb"
+          }
+        },
+        {
+          "client_id": "647061186309-j6sjh83kggia8kg37j1i4uvrd4bu7ilf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcbY2n6e7VBCKwnWL7T79ibumSW6-l9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647061186309-j6sjh83kggia8kg37j1i4uvrd4bu7ilf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647061186309-2b1sssb261gvn9o4rva4g8otf6bshjff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spocate.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

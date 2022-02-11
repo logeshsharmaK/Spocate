@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">647061186309-j6sjh83kggia8kg37j1i4uvrd4bu7ilf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">647061186309</string>
+    <string name="google_api_key" translatable="false">AIzaSyBCcbY2n6e7VBCKwnWL7T79ibumSW6-l9g</string>
+    <string name="google_app_id" translatable="false">1:647061186309:android:a48595816aa3c1ec65b96c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCcbY2n6e7VBCKwnWL7T79ibumSW6-l9g</string>
+    <string name="google_storage_bucket" translatable="false">freeparking-ededd.appspot.com</string>
+    <string name="project_id" translatable="false">freeparking-ededd</string>
+</resources>

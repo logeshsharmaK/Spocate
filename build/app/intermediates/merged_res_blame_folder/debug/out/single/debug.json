@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\raw_sweet.mp3.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\raw\\sweet.mp3"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\raw_slow_spring_board_test.mp3.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\raw\\slow_spring_board_test.mp3"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\raw_slow_spring_board.mp3.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\raw\\slow_spring_board.mp3"
+    },
+    {
+        "merged": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\build\\app\\intermediates\\res\\merged\\debug\\drawable_res_app_icon.png.flat",
+        "source": "D:\\LogeshSharma\\Development\\Project\\2022\\Syed_spocate_2\\android\\app\\src\\main\\res\\drawable\\res_app_icon.png"
+    }
+]
